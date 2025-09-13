@@ -17,7 +17,7 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 WHERE
     job_title_short = 'Data Analyst'
  -- Remove/ Add the comment syntax below to filter other criteria 
-    --job_location = 'Anywhere' (For remote Jobs)
+    AND job_location = 'Anywhere'
     --job_location = 'United Kingdom' (For UK Jobs)
     --AND salary_year_avg > 70000 (To include higher pay scaling)
 GROUP BY
