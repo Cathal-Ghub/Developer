@@ -85,7 +85,7 @@ Generic “Analyst” roles (Multicoin Capital) are at the lower end of this top
 
 More specialized titles like “Data Insights,” “Applied Science,” and “BI Engineer” command significantly higher salaries.
 
-![Top Paying Jobs](assets_sql\query_1_top_paying_jobs.png)
+![Top Paying Jobs](assets_sql/query_1_top_paying_jobs.png)
 *Bar Graph visualising the salary for the Top 10 Paying salaries for Business/ Data Analyst roles; ChatGPT generated this graph from my SQL query results*
 
 
@@ -142,7 +142,7 @@ ORDER BY
 
 🛠️ ***Specialist tools*** (GitLab, Chef, Oracle, PowerPoint, Crystal, Flow) show that some roles need cross-functional skills beyond pure analytics.
 
-![Top Paying Jobs Skills](assets_sql\query_2_top_paying_jobs_skills.png)
+![Top Paying Jobs Skills](assets_sql/query_2_top_paying_jobs_skills.png)
 *Bar Graph visualising the Top skills associated with high Paying salaries for Business/ Data Analyst roles; ChatGPT generated this graph from my SQL query results*
 
 
